@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sec1{
+    background: url(https://punjabicelebrities.com/wp-content/uploads/2020/01/Jimmy-Shergill-Biography.jpg) no-repeat center center/cover;
+    margin-top: 55px;
+    height: 570px;
+    padding-top: 100px!important;
+}
+.sec1 > h1{
+    font-size: 92px;
+
+}
+.sec1 > p{
+    font-size: 34px;
+}
+.sec2 > h1{
+    margin-top: 30px;
+}
+.sec2 > p{
+    width: 90%;
+    margin: auto;
+}
+.sec3 h1{
+    font-size: 72px;
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+.sec3 > .row > .col-md-4{
+    margin: 20px 0px;
+}
+.sec3 figcaption{
+    background-color: white;
+    padding: 6px;
+    width: 230px;
+    margin-left: 86px;
+}
+.sec4{
+    height: 635px;
+}
+.sec4 h1{
+    font-size: 72px;
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+.footer-nav{
+    height: 39px!important;
+}
